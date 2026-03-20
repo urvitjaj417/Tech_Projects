@@ -1,0 +1,19 @@
+# Generated data
+data/*.csv
+data/*.pkl
+data/*.txt
+
+# C build artifacts
+c_module/sensor_sim
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
